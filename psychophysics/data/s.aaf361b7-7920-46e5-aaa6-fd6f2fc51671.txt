@@ -1,0 +1,34 @@
+version: 2.6.1
+server-time: 2020-04-17-15-05
+user_agent: mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/81.0.4044.113 safari/537.36
+screen_width: 1366
+screen_height: 768
+html_width: 1238
+html_height: 655
+user_time: Fri, 17 Apr 2020 13:05:11 GMT
+T: 14384
+l: name
+stime: 2020-04-17-15-05
+T: 6188
+t: textline
+a: Ashwani 
+l: roll
+stime: 2020-04-17-15-05
+T: 7608
+t: textline
+a: 19111019
+l: email
+stime: 2020-04-17-15-05
+T: 8735
+t: textline
+a: bashwani@iitk.ac.in
+l: exp_type_1
+stime: 2020-04-17-15-10
+T: 288903
+t: experiment
+l: exp_type_2
+stime: 2020-04-17-15-14
+T: 247947
+t: experiment
+endcode: 
+end 2020-04-17-15-14

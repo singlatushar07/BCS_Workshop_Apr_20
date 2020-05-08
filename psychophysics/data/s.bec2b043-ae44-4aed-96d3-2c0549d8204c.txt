@@ -1,0 +1,10 @@
+l: exp_type_1
+stime: 2020-04-16-18-15
+T: 261147
+t: experiment
+l: exp_type_2
+stime: 2020-04-16-18-20
+T: 342521
+t: experiment
+endcode: 
+end 2020-04-16-18-20

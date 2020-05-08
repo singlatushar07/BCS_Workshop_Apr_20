@@ -1,0 +1,28 @@
+version: 2.6.1
+server-time: 2020-04-17-18-58
+user_agent: mozilla/5.0 (x11; ubuntu; linux x86_64; rv:73.0) gecko/20100101 firefox/73.0
+screen_width: 1920
+screen_height: 1080
+html_width: 1853
+html_height: 667
+user_time: Fri, 17 Apr 2020 16:58:19 GMT
+T: 13537
+l: name
+stime: 2020-04-17-18-58
+T: 15670
+t: textline
+a: Gagan Aryan
+l: roll
+stime: 2020-04-17-18-58
+T: 4881
+t: textline
+a: 190327
+l: email
+stime: 2020-04-17-18-58
+T: 12148
+t: textline
+a: gagan@iitk.ac.in
+l: exp_type_1
+stime: 2020-04-17-19-04
+T: 318631
+t: experiment

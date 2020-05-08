@@ -1,0 +1,24 @@
+version: 2.6.1
+server-time: 2020-04-18-11-16
+user_agent: mozilla/5.0 (linux; android 9; redmi note 7 pro) applewebkit/537.36 (khtml, like gecko) chrome/80.0.3987.119 mobile safari/537.36
+screen_width: 393
+screen_height: 851
+html_width: 393
+html_height: 979
+user_time: Sat, 18 Apr 2020 09:16:52 GMT
+T: 18750
+l: name
+stime: 2020-04-18-11-16
+T: 4362
+t: textline
+a: Manish
+l: roll
+stime: 2020-04-18-11-17
+T: 8026
+t: textline
+a: 19111051
+l: email
+stime: 2020-04-18-11-17
+T: 5698
+t: textline
+a: mpatel@iitk.ac.in

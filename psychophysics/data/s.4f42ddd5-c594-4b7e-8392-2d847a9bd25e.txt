@@ -1,0 +1,34 @@
+version: 2.6.1
+server-time: 2020-04-16-19-10
+user_agent: mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/80.0.3987.163 safari/537.36
+screen_width: 1536
+screen_height: 864
+html_width: 1536
+html_height: 657
+user_time: Thu, 16 Apr 2020 17:10:16 GMT
+T: 28924
+l: name
+stime: 2020-04-16-19-10
+T: 8550
+t: textline
+a: Shashwat Agarwal
+l: roll
+stime: 2020-04-16-19-10
+T: 5417
+t: textline
+a: 190797
+l: email
+stime: 2020-04-16-19-10
+T: 8998
+t: textline
+a: shashag@iitk.ac.in
+l: exp_type_1
+stime: 2020-04-16-19-15
+T: 269367
+t: experiment
+l: exp_type_2
+stime: 2020-04-16-19-19
+T: 245413
+t: experiment
+endcode: 
+end 2020-04-16-19-19

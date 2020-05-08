@@ -1,0 +1,24 @@
+version: 2.6.1
+server-time: 2020-04-16-19-14
+user_agent: mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/81.0.4044.92 safari/537.36
+screen_width: 1536
+screen_height: 864
+html_width: 1536
+html_height: 657
+user_time: Thu, 16 Apr 2020 17:14:28 GMT
+T: 57259
+l: name
+stime: 2020-04-16-19-14
+T: 10394
+t: textline
+a: Samarth
+l: roll
+stime: 2020-04-16-19-15
+T: 15085
+t: textline
+a: 190749
+l: email
+stime: 2020-04-16-19-15
+T: 28528
+t: textline
+a: ssamarth@iitk.ac.in
